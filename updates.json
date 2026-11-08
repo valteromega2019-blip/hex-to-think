@@ -1,0 +1,20 @@
+{
+  "payload": {
+    "schema": 1,
+    "version": "0.1.0",
+    "channel": "beta",
+    "notes": [
+      "Conversor local de até oito cores, importação de imagens e comparação de aproximações Pantone.",
+      "Biblioteca de paletas e EPS com vetores e textos editáveis.",
+      "Tutorial de primeiro acesso e atualizador integrado com verificação de integridade e assinatura.",
+      "Gerador de paletas experimental: sugestões heurísticas pelo briefing."
+    ],
+    "installer": {
+      "url": "https://github.com/valteromega2019-blip/hex-to-think/releases/download/v0.1.0/HexToThink-Setup-0.1.0.exe",
+      "sha256": "d0f1113712a55b622171aa7a8e5f3f001ad4f19291fe53159785116966c0ef57",
+      "bytes": 116894645,
+      "signature": "QFGyPJTu71NWSwpkcHuP6RtR8thKv1utW2i8WZ70LjTiDYPxd8xwXHUofUPceqKaiqU3wjJZRTejaEdfL0fz48+e0D07qcrhQs8AQ+5dgY1cOCdCIMUbLwCisbcO6LUmgECsqz88j5iCDdgWHemtq4I70QINxkNQ2IMuhuXg+LKi17BFgC6su4jlZL6Np7QnFqhN6U5CyhC734LxkLrUeIVx0TtA6UyBuE4zi9Xl35CxJZJsLt6CnS5fjMIEp+1FPrIcnOkeEjn9RM6QVFkicy9r2s13LKkssxBzxiELyP5UJf8f7sfBKdZXTjqJZCQNmZx2BDcZWdaGPtzh5RlDs3lW5lgdS53Eiud1vF99xCBW9j3yWCHGH1r3eXML/1pCwqNSG9yiyDrjRdA93xYxeoxjL9kOubwmcCJP0qkeSvOpIs8IllOd7rJPtjXc1MS/rziAGC2a+KI39EpzfmlxVZCQPf8cZyvjo8amSFjFZFEkddKJoB0N2+2LIXeugVTK"
+    }
+  },
+  "signature": "CVn5yVJoie4aYb2gYbbdaP/9H8FaMFgMPFmG79BY5JQbrIz/om0FTXY3uzo6dICXEKdbCw+RNfPUGMS6MxhuaSe+XM/oqMZuv1DF2gHi4L2C+kN1Q/vmXYGc61xJecopOxSG+iutguunwdtfbeOQmwGvgyx9yMTfkvWrnqlAreSJxts4kEKSmstr0+WoqI0MSJrcPtkL7uonK+0UPnKO5e59Ia9AyQxqiALT8Gl1miGg5k9yr16ycc9/3KTKrs2490EAZL9vVVmatdKdHSFddLLaiD1rcMuN4fQ1G9b2/ye8gOg2IrillU9xvqUFxhuVeurw+Lj5+M2OjtR5zNnZZ6xGJ6SxrehA2+JyMBjyyofogzrk/OLg2/sf/2U6OnuGi3Q072Nq+Ki50Yi6afA09VscJlMogX1PgawHokFWxJITv9vy/JbPHgHnyY7w95QgbcEBpPmnO+Dub56DneEylZeQMsdtK/XqL2wvuPj6BK0r0gmh9d5o2wFDiSZfvlbc"
+}

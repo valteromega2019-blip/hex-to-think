@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "channel": "beta",
+  "publishedAt": "2026-11-08T20:49:34.212Z",
+  "url": "https://github.com/valteromega2019-blip/hex-to-think/releases/download/v0.1.0/HexToThink-Setup-0.1.0.exe",
+  "bytes": 116894645,
+  "sha256": "d0f1113712a55b622171aa7a8e5f3f001ad4f19291fe53159785116966c0ef57",
+  "notes": [
+    "Conversor local de até oito cores, importação de imagens e comparação de aproximações Pantone.",
+    "Biblioteca de paletas e EPS com vetores e textos editáveis.",
+    "Tutorial de primeiro acesso e atualizador integrado com verificação de integridade e assinatura.",
+    "Gerador de paletas experimental: sugestões heurísticas pelo briefing."
+  ]
+}
