@@ -1,20 +1,20 @@
 {
   "payload": {
     "schema": 1,
-    "version": "0.1.0",
+    "version": "0.1.1",
     "channel": "beta",
     "notes": [
-      "Conversor local de até oito cores, importação de imagens e comparação de aproximações Pantone.",
-      "Biblioteca de paletas e EPS com vetores e textos editáveis.",
-      "Tutorial de primeiro acesso e atualizador integrado com verificação de integridade e assinatura.",
-      "Gerador de paletas experimental: sugestões heurísticas pelo briefing."
+      "Tutorial avança ao clicar no controle indicado, sem trocar de área automaticamente.",
+      "Quando a área está fechada, o guia indica o ícone lateral para o usuário navegar.",
+      "Correção do destaque ao mudar de área; pausa, retomada e janelas abertas preservadas.",
+      "23 verificações do tutorial aprovadas no Electron, além dos testes de conversão ICC, EPS e biblioteca."
     ],
     "installer": {
-      "url": "https://github.com/valteromega2019-blip/hex-to-think/releases/download/v0.1.0/HexToThink-Setup-0.1.0.exe",
-      "sha256": "d0f1113712a55b622171aa7a8e5f3f001ad4f19291fe53159785116966c0ef57",
-      "bytes": 116894645,
-      "signature": "QFGyPJTu71NWSwpkcHuP6RtR8thKv1utW2i8WZ70LjTiDYPxd8xwXHUofUPceqKaiqU3wjJZRTejaEdfL0fz48+e0D07qcrhQs8AQ+5dgY1cOCdCIMUbLwCisbcO6LUmgECsqz88j5iCDdgWHemtq4I70QINxkNQ2IMuhuXg+LKi17BFgC6su4jlZL6Np7QnFqhN6U5CyhC734LxkLrUeIVx0TtA6UyBuE4zi9Xl35CxJZJsLt6CnS5fjMIEp+1FPrIcnOkeEjn9RM6QVFkicy9r2s13LKkssxBzxiELyP5UJf8f7sfBKdZXTjqJZCQNmZx2BDcZWdaGPtzh5RlDs3lW5lgdS53Eiud1vF99xCBW9j3yWCHGH1r3eXML/1pCwqNSG9yiyDrjRdA93xYxeoxjL9kOubwmcCJP0qkeSvOpIs8IllOd7rJPtjXc1MS/rziAGC2a+KI39EpzfmlxVZCQPf8cZyvjo8amSFjFZFEkddKJoB0N2+2LIXeugVTK"
+      "url": "https://github.com/valteromega2019-blip/hex-to-think/releases/download/v0.1.1/HexToThink-Setup-0.1.1.exe",
+      "sha256": "4336d01ea12f0762fd004f58f05b6abd909af7ddcbd6e149518dc929711cdf82",
+      "bytes": 116892811,
+      "signature": "Tyi4G8k17uI83xCSniMf1/leIs/ccX0KXGnDRqx8eDZuWv4ITDyGxrWtf4WJ0XoZnFYIN8tUn6DU4NBrdY+JjgQmdMFPQUUyRTOW1bi+BQ6rnBnt03TDQX0LFue81ue1Z+gPkANgAIj9K3ebFv5ltmk2BYvXVg/77RB6HQSQm8ajV2bt/9js6F2Kiz5xbDMZmcakxBTm2rqNOj2udXRueh5+okOZvn6tH72oBtDl2IK9nr+hfQENa7236EpSdTi0Am3h7Exnrmbbkb2daex2WSYP4J89ltLiPLjXmrYRMK6k4pozlEdUZh0rdSG8esMhqU62plN5y/gJ0cpnLyUHv31y2kahqkpn0z3wd6ZRE03N0XGce55qNbwTdvVTfvslr1zDrwc7wQa04a3XaeFTxTNsdg/toprJBi5zAixt1RSZltfoApcUPpJym8mM2p3gqGgqo6kjXVoNIplsSB3KM0v8CaGr0DKSzTMxSd+ID/5CxwEhd4Cm1b3JxNwb4ya7"
     }
   },
-  "signature": "CVn5yVJoie4aYb2gYbbdaP/9H8FaMFgMPFmG79BY5JQbrIz/om0FTXY3uzo6dICXEKdbCw+RNfPUGMS6MxhuaSe+XM/oqMZuv1DF2gHi4L2C+kN1Q/vmXYGc61xJecopOxSG+iutguunwdtfbeOQmwGvgyx9yMTfkvWrnqlAreSJxts4kEKSmstr0+WoqI0MSJrcPtkL7uonK+0UPnKO5e59Ia9AyQxqiALT8Gl1miGg5k9yr16ycc9/3KTKrs2490EAZL9vVVmatdKdHSFddLLaiD1rcMuN4fQ1G9b2/ye8gOg2IrillU9xvqUFxhuVeurw+Lj5+M2OjtR5zNnZZ6xGJ6SxrehA2+JyMBjyyofogzrk/OLg2/sf/2U6OnuGi3Q072Nq+Ki50Yi6afA09VscJlMogX1PgawHokFWxJITv9vy/JbPHgHnyY7w95QgbcEBpPmnO+Dub56DneEylZeQMsdtK/XqL2wvuPj6BK0r0gmh9d5o2wFDiSZfvlbc"
+  "signature": "V985JUg6zZbb050gNCWIPpmpLJqqGV/Aiku7FlqJzb6BShZhcWq+UzKPWFCkay2PfZwsWtiIWDLo+KqCYUpEl09m7gH/pemtyoSm48Mwt+TAB0ZphzewYkp0WtY0Nze8xMPa/Ck9a9MRYGoFsRxyBd11mPXPJsGa+o6zpCM0YBuIFBP3JYpLXmp3NjMxXVB+UaMjixThU/O5HORsLlF+xa54/UylPDv4iuaJQpOxwak0nTwM0481IRLEGgbmDCsedSUtQCAaSv0+0ctiUqgvTpqwP9zotJwDU2mVgg9t0frvB2BIC5gozvTNbIxSRBL74g7oCOlDD6MgwpS6UHX73pa7LQw8it9tnOrpDZF2eySwtwpZOxkveuecC5dipl9FCws93XVzqg5rHovevwqP0g31QNyYvlzGA/F7ecK7UzRhWhD4DDBNzLUMMZYNqRpQtmv/t0CR660Ulu0C2lH+Rtn2O65tHZdqyA0fzE4JcDoAg/kKYZQmrSXk2zFxqtLe"
 }

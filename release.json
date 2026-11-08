@@ -1,14 +1,14 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "channel": "beta",
-  "publishedAt": "2026-11-08T20:49:34.212Z",
-  "url": "https://github.com/valteromega2019-blip/hex-to-think/releases/download/v0.1.0/HexToThink-Setup-0.1.0.exe",
-  "bytes": 116894645,
-  "sha256": "d0f1113712a55b622171aa7a8e5f3f001ad4f19291fe53159785116966c0ef57",
+  "publishedAt": "2026-11-08T21:08:27.124Z",
+  "url": "https://github.com/valteromega2019-blip/hex-to-think/releases/download/v0.1.1/HexToThink-Setup-0.1.1.exe",
+  "bytes": 116892811,
+  "sha256": "4336d01ea12f0762fd004f58f05b6abd909af7ddcbd6e149518dc929711cdf82",
   "notes": [
-    "Conversor local de até oito cores, importação de imagens e comparação de aproximações Pantone.",
-    "Biblioteca de paletas e EPS com vetores e textos editáveis.",
-    "Tutorial de primeiro acesso e atualizador integrado com verificação de integridade e assinatura.",
-    "Gerador de paletas experimental: sugestões heurísticas pelo briefing."
+    "Tutorial avança ao clicar no controle indicado, sem trocar de área automaticamente.",
+    "Quando a área está fechada, o guia indica o ícone lateral para o usuário navegar.",
+    "Correção do destaque ao mudar de área; pausa, retomada e janelas abertas preservadas.",
+    "23 verificações do tutorial aprovadas no Electron, além dos testes de conversão ICC, EPS e biblioteca."
   ]
 }
